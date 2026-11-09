@@ -78,7 +78,11 @@ I maintain a growing MCP (Model Context Protocol) ecosystem enabling AI agents t
 _Updated automatically every day via GitHub Actions._
 
 ### Latest writing
-- No articles yet.
+- [Autonomous Kubernetes Diagnostics via Read-Only MCP](https://akkireddy-challa.github.io/writing/k8s-mcp-diagnostics.html) (2026-11-01) - Architecting a read-only Model Context Protocol server for bounded Kubernetes pod diagnostics,...
+- [Architecting Local Agentic RAG with Evaluator-Optimizer Feedback](https://akkireddy-challa.github.io/writing/nova-agentic-rag-architecture.html) (2026-11-01) - Designing local agentic RAG pipelines with Evaluator-Optimizer critic loops, vendor-agnostic...
+- [External Attack Surface Discovery with Azure and Censys MCP](https://akkireddy-challa.github.io/writing/azure-censys-mcp-security.html) (2026-11-01) - Automating cloud security posture audits by orchestrating Censys Internet Intelligence and Azure...
+- [Continuous LLM Observability and Quality Gating via MCP](https://akkireddy-challa.github.io/writing/phoenix-mcp-llm-eval.html) (2026-11-01) - Exposing Arize Phoenix LLM tracing, span-level latency debugging, and automated evaluation...
+- [Build MCP skills for AI assistants](https://akkireddy-challa.github.io/writing/mcp-skills-for-ai.html) (2026-06-05) - A practical guide to building MCP skills for AI assistants, including design, prompts, and...
 
 ### Recent project activity
 - [akkireddy-challa.github.io](https://github.com/akkireddy-challa/akkireddy-challa.github.io) - Portfolio and writing hub for Akkireddy Challa: platform engineering, DevOps, SRE, open source, and AI infrastructure. _(updated 2026-11-01)_
@@ -95,5 +99,5 @@ _Updated automatically every day via GitHub Actions._
 
 ![Profile views](https://komarev.com/ghpvc/?username=akkireddy-challa&color=0e75b6&style=flat)
 
-_Last refreshed: 2026-11-08 UTC_
+_Last refreshed: 2026-11-09 UTC_
 <!-- dynamic:activity:end -->
